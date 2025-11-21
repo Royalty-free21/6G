@@ -45,4 +45,5 @@ Extension ideas
 - Replace simple channel model with per-packet SNR variation (fading).
 - Implement per-user mobility and variable distances.
 - Add scheduler policies (round-robin, proportional fairness).
-- Integrate more realistic PHY/MAC from ns-3 or MATLAB.
+- Integrate more realistic PHY/MAC from ns-3 or MATLAB.<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/8de893fa-a92b-4668-a5ab-f24747ff343e" />
+
